@@ -1,6 +1,6 @@
 
--and-tricks-for-css
-A sharing of tricks/tips/hacks on Test that make things happen
+Tips-and-tricks-for-css
+A sharing of tricks/tips/hacks on Testing that make it work
 
 ---
 ### To include sub directories when running test, add double quotes
